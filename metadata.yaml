@@ -1,0 +1,38 @@
+_repo: Old-French-Romances-Done-into-English_5988
+contributor:
+  author_of_introduction:
+    agent_name: Jacobs, Joseph
+    birthdate: 1854
+    deathdate: 1916
+    gutenberg_agent_id: '2470'
+    url: http://www.gutenberg.org/2009/agents/2470
+creator:
+  author:
+    agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+description: The tale of King Coustans the emperor. -- The friendship of Amis and
+  Amile. -- The tale of King Florus and the fair Jehane. -- The history of over sea.
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5988'
+  lccn: 02012209
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romances'
+- !lcc 'PQ'
+- !lcsh 'French literature -- To 1500 -- Translations into English'
+- !lcsh 'Tales, Medieval'
+tableOfContents: The tale of King Coustans the emperor -- The friendship of Amis and
+  Amile -- The tale of King Florus and the fair Jehane -- The history of over sea.
+title: Old French Romances, Done into English
+url: http://www.gutenberg.org/ebooks/5988
