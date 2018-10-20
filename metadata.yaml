@@ -1,5 +1,5 @@
 _repo: Old-French-Romances-Done-into-English_5988
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   author_of_introduction:
     agent_name: Jacobs, Joseph
@@ -38,6 +38,7 @@ subjects:
 - !lcc 'PQ'
 - !lcsh 'French literature -- To 1500 -- Translations into English'
 - !lcsh 'Tales, Medieval'
+- GITenberg
 tableOfContents: The tale of King Coustans the emperor -- The friendship of Amis and
   Amile -- The tale of King Florus and the fair Jehane -- The history of over sea.
 title: Old French Romances, Done into English
